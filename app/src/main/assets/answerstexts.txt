@@ -1,0 +1,490 @@
+{
+    "words": [
+        {
+            "id": 0,
+           
+            "a_key": "THE GODFATHER",
+            "s_key": "FHROTAU",
+             "soru_key": "",
+             "seviye" : ""
+                            },
+        {
+            "id": 1,
+
+            "a_key": "THE DARK KNIGHT",
+            "s_key": "LKYSE",
+            "soru_key": "",
+            "seviye" : ""
+                            },
+
+        {
+            "id": 2,
+
+            "a_key": "12 ANGRY MEN",
+            "s_key": "34LKAERT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+
+        {
+            "id": 3,
+
+            "a_key": "LORD OF THE RINGS",
+            "s_key": "FHC",
+            "soru_key": "",
+            "seviye" : ""
+                            },
+
+
+        {
+            "id": 4,
+
+            "a_key": "FIGHT CLUB",
+            "s_key": "MKAZXVCFHT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 5,
+
+            "a_key": "STAR WARS",
+            "s_key": "POITASDFYCB",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 6,
+
+            "a_key": "INCEPTION",
+            "s_key": "MNAPORAESDF",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+             "id": 7,
+
+             "a_key": "MATRIX",
+             "s_key": "SUAQERPOFKTHEA",
+             "soru_key": "",
+             "seviye" : ""
+                            } ,
+
+        {
+            "id": 8,
+
+            "a_key": "THE LIFE OF PI",
+            "s_key": "PYTGYG",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 9,
+
+            "a_key": "SEVEN SAMURAI",
+            "s_key": "XHPKLSK",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 10,
+
+            "a_key": "INTERSTELLAR",
+            "s_key": "JKYTRBAE",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 11,
+
+            "a_key": "THE GREEN MILE",
+            "s_key": "RUSYAT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 12,
+
+            "a_key": "THE PIANIST",
+            "s_key": "SENGLKMRA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 13,
+
+            "a_key": "TERMINATOR",
+            "s_key": "PORTOGUYEA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 14,
+
+            "a_key": "GLADIATOR",
+            "s_key": "IRAKSURYAET",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+        {
+            "id": 15,
+
+            "a_key": "THE LION KING",
+            "s_key": "TYVSURY",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 16,
+
+            "a_key": "OLDBOY",
+            "s_key": "YOUNGGİRLWİFET",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 17,
+
+            "a_key": "BRAVEHEART",
+            "s_key": "KUBASJUAER",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 18,
+
+            "a_key": "A BEAUTIFUL MIND",
+            "s_key": "AGSB",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 19,
+
+            "a_key": "SHERLOCK HOLMES",
+            "s_key": "AERAN",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 20,
+
+            "a_key": "V FOR VANDETTA",
+            "s_key": "CEZARI",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 21,
+
+            "a_key": "JURASSIC WORLD",
+            "s_key": "HOLLAN",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 22,
+
+            "a_key": "HARRY POTTER",
+            "s_key": "AERTYHNVG",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 23,
+
+            "a_key": "ROCKY",
+            "s_key": "BABOALDFGTAERTY",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 24,
+
+            "a_key": "JAWS",
+            "s_key": "ASHARKSWERTYPLKM",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 25,
+
+            "a_key": "TWELVE MONKEYS",
+            "s_key": "ISVE12",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 26,
+
+            "a_key": "WONDER WOMAN",
+            "s_key": "DANAERRK",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 27,
+
+            "a_key": "SUPERMAN",
+            "s_key": "WOMANFLASHWQ",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 28,
+
+            "a_key": "BATMAN",
+            "s_key": "DARKKNİGHTRİSE",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 29,
+
+            "a_key": "SPIDERMAN",
+            "s_key": "AERTGFDNMKU",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 30,
+
+            "a_key": "HULK",
+            "s_key": "İNCREDİBLEAEDFRP",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 31,
+
+            "a_key": "THOR",
+            "s_key": "RAGNOROKDARKWORL",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 32,
+
+            "a_key": "CAPTAIN AMERICA",
+            "s_key": "AERLD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 33,
+
+            "a_key": "TRANSFORMERS",
+            "s_key": "BGTHNYKM",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 34,
+
+            "a_key": "SAW",
+            "s_key": "JİGKJHFTBCVRMPLAS",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 35,
+
+            "a_key": "DEADPOOL",
+            "s_key": "AFRIKAVARTPL",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 36,
+
+            "a_key": "THE MUMMY",
+            "s_key": "TAZMNHYTGBC",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 37,
+
+            "a_key": "PHONE BOOTH",
+            "s_key": "CEZALKJHT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 38,
+
+            "a_key": "THE RING",
+            "s_key": "HOLLANDARGLM",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 39,
+
+            "a_key": "KILL BILL",
+            "s_key": "KUYHNBVGTRD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 40,
+
+            "a_key": "THE PUNISHER",
+            "s_key": "MNBHTRDY",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 41,
+
+            "a_key": "THE SKELETON KEY",
+            "s_key": "MNHT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 42,
+
+            "a_key": "KING KONG",
+            "s_key": "MNHYTGBCFRD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 43,
+
+            "a_key": "BLOOD DIAMOND",
+            "s_key": "AEFCMNH",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 44,
+
+            "a_key": "300 SPARTANS",
+            "s_key": "257NBHTG",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 45,
+
+            "a_key": "IRONMAN",
+            "s_key": "APLKUYRDGHCEX",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 46,
+
+            "a_key": "KUNG FU PANDA",
+            "s_key": "NBCAEFR",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 47,
+
+            "a_key": "MIRRORS",
+            "s_key": "HNGYTDAERSWQX",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 48,
+
+            "a_key": "EAGLE EYE",
+            "s_key": "MNCBVFDRAES",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 49,
+
+            "a_key": "SHUTTER ISLAND",
+            "s_key": "EOSOVA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 50,
+
+            "a_key": "BATTLESHIP",
+            "s_key": "MNBCZPAXSER",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 51,
+
+            "a_key": "AVENGERS",
+            "s_key": "PLKMJNHBGVAE",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 52,
+
+            "a_key": "JUSTICE LEAGUE",
+            "s_key": "AFRIKA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+ ]
+}
